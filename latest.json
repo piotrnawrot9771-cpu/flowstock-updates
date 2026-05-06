@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/piotrnawrot9771-cpu/flowstock-updates/raw/main/downloads/flowstock-app-v1.1.apk",
-  "notes": "In-app update button, Boss QR fix, PDF sharing, print layout cleanup, delivery mode footer cleanup, and faster Boss/Worker sync.",
-  "publishedAt": "2026-05-06T22:14:07+01:00"
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apkUrl": "https://github.com/piotrnawrot9771-cpu/flowstock-updates/raw/main/downloads/flowstock-app-v1.2.apk",
+  "notes": "Fix delivery PDF sharing crash, keep the Help message, and publish a newer updater test build.",
+  "publishedAt": "2026-05-06T22:38:15+01:00"
 }
