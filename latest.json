@@ -1,7 +1,7 @@
 {
   "versionCode": 5,
   "versionName": "1.4",
-  "apkUrl": "https://github.com/piotrnawrot9771-cpu/flowstock-updates/raw/main/downloads/flowstock-app-v1.4.apk",
+  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v1.4.apk",
   "notes": "New FlowStock launcher screen, stronger worker auto-reconnect, and a more resilient update checker.",
   "publishedAt": "2026-05-06T23:02:15+01:00"
 }
