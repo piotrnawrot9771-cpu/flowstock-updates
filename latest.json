@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v1.6.apk",
-  "notes": "Push full catalog updates after barcode and location changes, and cut more worker lag by avoiding heavy live-state saves while connected.",
-  "publishedAt": "2026-05-07T18:01:44+01:00"
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v1.7.apk",
+  "notes": "Show worker scans on the worker pick list immediately, while keeping Boss as the source of truth for sync.",
+  "publishedAt": "2026-05-07T18:32:13+01:00"
 }
