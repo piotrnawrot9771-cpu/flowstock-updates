@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v1.7.apk",
-  "notes": "Show worker scans on the worker pick list immediately, while keeping Boss as the source of truth for sync.",
-  "publishedAt": "2026-05-07T18:32:13+01:00"
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v1.8.apk",
+  "notes": "Add worker heartbeat ping/pong keepalive so Boss connections stay active instead of idling out.",
+  "publishedAt": "2026-05-10T20:10:00+01:00"
 }
