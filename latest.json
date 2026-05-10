@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v1.8.apk",
-  "notes": "Add worker heartbeat ping/pong keepalive so Boss connections stay active instead of idling out.",
-  "publishedAt": "2026-05-10T20:10:00+01:00"
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v1.9.apk",
+  "notes": "Ship the new boss/worker UI redesign, worker PDF attachment sharing, stronger heartbeat keepalive, and a stricter updater that prefers fresh feeds and blocks older fallback downloads.",
+  "publishedAt": "2026-05-10T22:35:00+01:00"
 }
