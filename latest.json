@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v1.9.apk",
-  "notes": "Ship the new boss/worker UI redesign, worker PDF attachment sharing, stronger heartbeat keepalive, and a stricter updater that prefers fresh feeds and blocks older fallback downloads.",
-  "publishedAt": "2026-05-10T22:35:00+01:00"
+  "versionCode": 11,
+  "versionName": "2.0",
+  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.0.apk",
+  "notes": "Fix worker startup so it no longer flashes the Boss dashboard, add a synced Manager View role for extra tablets or phones, improve remote clear-batch behavior, and keep the boss heartbeat/update flow aligned.",
+  "publishedAt": "2026-05-11T00:15:00+01:00"
 }
