@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2",
-  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.2.apk",
-  "notes": "Make update checks less misleading when direct download is available, and request Boss state immediately on remote connect so Manager View syncs in faster and more reliably.",
-  "publishedAt": "2026-05-11T01:05:00+01:00"
+  "versionCode": 14,
+  "versionName": "2.3",
+  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.3.apk",
+  "notes": "Stabilization and cleanup release: remove duplicate legacy sync files, tighten the active TCP sync layer, simplify control-flow hot paths, and refresh the published APK/update feed.",
+  "publishedAt": "2026-05-11T22:20:00+01:00"
 }
