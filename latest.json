@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "2.4",
-  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.apk",
-  "notes": "Stabilization release: hide leftover preview/admin controls from the wrong roles, replace the last inline-style lint issues, and tighten boss/manager UI boundaries without changing workflows.",
-  "publishedAt": "2026-05-11T22:40:00+01:00"
+  "versionCode": 16,
+  "versionName": "2.4.1",
+  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.1.apk",
+  "notes": "Add GS1-aware product recognition for replenishment, last-on-shelf, and stock check, with lot and expiry shown as informational data only. Release numbering now uses patch versions like 2.4.1.",
+  "publishedAt": "2026-05-12T08:15:00+01:00"
 }
