@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "2.4.3",
-  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.3.apk",
-  "notes": "Fix repeated GS1 scans so known GS1 barcodes keep lot and expiry metadata in stock check instead of dropping back to stock only.",
-  "publishedAt": "2026-05-12T22:05:00+01:00"
+  "versionCode": 19,
+  "versionName": "2.4.4",
+  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.4.apk",
+  "notes": "Performance pass: reduce manager sync churn, batch shared-state updates, split static/live persistence, and lighten scanner refocus behavior for smoother day-to-day use.",
+  "publishedAt": "2026-05-13T21:55:00+01:00"
 }
