@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "2.4.4",
-  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.4.apk",
-  "notes": "Performance pass: reduce manager sync churn, batch shared-state updates, split static/live persistence, and lighten scanner refocus behavior for smoother day-to-day use.",
-  "publishedAt": "2026-05-13T21:55:00+01:00"
+  "versionCode": 20,
+  "versionName": "2.4.5",
+  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.5.apk",
+  "notes": "Database-first prep: lighter sync polling and smaller state payloads, delivery line editing including units-per-case, manager/worker-first role migration, and app traffic switched to the live HTTPS backend.",
+  "publishedAt": "2026-05-20T00:35:00+01:00"
 }
