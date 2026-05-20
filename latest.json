@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "2.4.6",
-  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.6.apk",
-  "notes": "Manager/worker DB-first cleanup release: delivery line editing, lighter sync payloads, live HTTPS backend, and clearer in-app sync wording with stray Boss references removed from the visible UI.",
-  "publishedAt": "2026-05-20T01:05:00+01:00"
+  "versionCode": 22,
+  "versionName": "2.4.7",
+  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.7.apk",
+  "notes": "Manager barcode/location updates now refresh faster across devices, unknown barcode assignment works directly from Replen and Last On Shelf, and the leftover legacy worker menu path is blocked from the DB-first UI.",
+  "publishedAt": "2026-05-20T11:20:00+01:00"
 }
