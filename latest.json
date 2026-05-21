@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "2.4.8",
-  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.8.apk",
-  "notes": "Manager UI cleanup release: no mirrored worker footer/status clutter, the sidebar device card now handles role changes, the worker header is slimmer, and the old top-menu path is removed from the DB-first worker flow.",
-  "publishedAt": "2026-05-20T12:05:00+01:00"
+  "versionCode": 24,
+  "versionName": "2.4.9",
+  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.9.apk",
+  "notes": "Barcode Manager now uses a simpler missing-barcode toggle instead of separate tabs, keeping the manager flow lighter while preserving the same product filters underneath.",
+  "publishedAt": "2026-05-21T09:30:00+01:00"
 }
