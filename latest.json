@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "2.4.9",
-  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.9.apk",
-  "notes": "Barcode Manager now uses a simpler missing-barcode toggle instead of separate tabs, keeping the manager flow lighter while preserving the same product filters underneath.",
-  "publishedAt": "2026-05-21T09:30:00+01:00"
+  "versionCode": 25,
+  "versionName": "2.4.10",
+  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.10.apk",
+  "notes": "Barcode Intake is faster to work through on the floor: workers can open it directly, GS1 has a missing-versus-existing toggle, and supplier/location slices now switch cleanly between missing and existing barcodes.",
+  "publishedAt": "2026-05-22T10:45:00+01:00"
 }
