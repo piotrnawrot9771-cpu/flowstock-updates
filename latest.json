@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "2.4.11",
-  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.11.apk",
-  "notes": "Barcode Intake is cleaner on the floor: supplier and location slices prioritize missing barcode work, the new Not Selling list is in place, route ordering is tighter, and replenishment print/share no longer includes the Source column.",
-  "publishedAt": "2026-05-22T13:55:00+01:00"
+  "versionCode": 27,
+  "versionName": "2.4.12",
+  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.12.apk",
+  "notes": "Not Selling now feels much snappier on-device, barcode intake keeps prioritizing missing work, and replenishment print/share stays clean without the Source column.",
+  "publishedAt": "2026-05-22T14:20:00+01:00"
 }
