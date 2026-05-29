@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "2.4.12",
-  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.12.apk",
-  "notes": "Not Selling now feels much snappier on-device, barcode intake keeps prioritizing missing work, and replenishment print/share stays clean without the Source column.",
-  "publishedAt": "2026-05-22T14:20:00+01:00"
+  "versionCode": 28,
+  "versionName": "2.4.13",
+  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.13.apk",
+  "notes": "Not Selling responds faster on the floor, while the intake and replenishment cleanup from the previous release stay in place.",
+  "publishedAt": "2026-05-30T10:45:00+01:00"
 }
