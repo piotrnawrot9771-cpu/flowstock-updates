@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "2.4.14",
-  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.14.apk",
-  "notes": "Replenishment counts are protected from older sync payloads, stock check explains live-stock mapping more clearly, location lookup works locally without backend traffic, and pick-list printing is lighter.",
-  "publishedAt": "2026-06-16T22:10:00+01:00"
+  "versionCode": 30,
+  "versionName": "2.4.15",
+  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.15.apk",
+  "notes": "Stock and barcode lookups now handle common product-code aliases like TJ-prefixed variants more forgivingly, so local scans and live stock checks agree more often.",
+  "publishedAt": "2026-06-17T12:15:00+01:00"
 }
