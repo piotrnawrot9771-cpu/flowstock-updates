@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "2.4.15",
-  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.15.apk",
-  "notes": "Stock and barcode lookups now handle common product-code aliases like TJ-prefixed variants more forgivingly, so local scans and live stock checks agree more often.",
-  "publishedAt": "2026-06-17T12:15:00+01:00"
+    "apkUrl":  "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.16.apk",
+    "publishedAt":  "2026-06-30T13:59:50+01:00",
+    "versionCode":  31,
+    "versionName":  "2.4.16",
+    "notes":  "Adds name search for stock and location lookup, lets barcode intake create and edit products, adds tap-to-confirm or delete in Confirm Pick, and fixes pick-list quantity sync so removed rows do not come back after later scans."
 }
