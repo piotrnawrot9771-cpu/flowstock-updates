@@ -1,7 +1,1 @@
-﻿{
-    "apkUrl":  "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.17.apk",
-    "publishedAt":  "2026-07-01T08:07:20+01:00",
-    "versionCode":  32,
-    "versionName":  "2.4.17",
-    "notes":  "Makes confirm-pick clear the full picked line in one tap, adds twice-daily low-bandwidth replen stock snapshots with local Last known stock display, and keeps live stock check behavior unchanged."
-}
+{"apkUrl":"https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.18.apk","publishedAt":"2026-07-01T11:39:50+01:00","versionCode":33,"versionName":"2.4.18","notes":"Fixes update-feed parsing reliability, removes broken mojibake text on manager screens, and keeps the recent confirm-pick and replen stock snapshot improvements."}
