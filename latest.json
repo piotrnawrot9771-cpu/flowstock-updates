@@ -1,7 +1,7 @@
-{
-    "apkUrl":  "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.16.apk",
-    "publishedAt":  "2026-06-30T13:59:50+01:00",
-    "versionCode":  31,
-    "versionName":  "2.4.16",
-    "notes":  "Adds name search for stock and location lookup, lets barcode intake create and edit products, adds tap-to-confirm or delete in Confirm Pick, and fixes pick-list quantity sync so removed rows do not come back after later scans."
+﻿{
+    "apkUrl":  "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/downloads/flowstock-app-v2.4.17.apk",
+    "publishedAt":  "2026-07-01T08:07:20+01:00",
+    "versionCode":  32,
+    "versionName":  "2.4.17",
+    "notes":  "Makes confirm-pick clear the full picked line in one tap, adds twice-daily low-bandwidth replen stock snapshots with local Last known stock display, and keeps live stock check behavior unchanged."
 }
