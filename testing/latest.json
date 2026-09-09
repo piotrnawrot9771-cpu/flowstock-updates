@@ -1,11 +1,11 @@
 {
   "channel": "testing",
   "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/testing/downloads/flowstock-test-latest.apk",
-  "publishedAt": "2026-09-09T14:16:11+01:00",
+  "publishedAt": "2026-09-09T22:30:27+01:00",
   "versionCode": 44,
   "versionName": "2.4.29",
-  "buildLabel": "Volo catalogue and delivery local test",
-  "sizeBytes": 80649729,
-  "sha256": "1d6f28d1f5b5a3c62ed6e23b5e1b4f4222f71dfd22d243b5b91f74bbf283aa99",
-  "notes": "Testing-only build with one-way Volo catalogue refresh, Volo PO delivery selection, batch and expiry capture, and typed purchase-pack quantities."
+  "buildLabel": "PO-first batch-aware delivery test",
+  "sizeBytes": 80650381,
+  "sha256": "b421f9a562d99b59ec804087a336932aa4d45ec2c83580af1782c92b27a8e0ea",
+  "notes": "Testing-only build with exact Volo PO lookup, complete PO line display, quantity scanning, separate batch and expiry receipt lines, and receiver audit details."
 }
