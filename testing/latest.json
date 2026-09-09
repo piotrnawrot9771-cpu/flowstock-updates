@@ -1,0 +1,11 @@
+{
+  "channel": "testing",
+  "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/testing/downloads/flowstock-test-2026-09-08.apk",
+  "publishedAt": "2026-09-09T08:00:00+01:00",
+  "versionCode": 42,
+  "versionName": "2.4.27",
+  "buildLabel": "2026-09-08 local test build",
+  "sizeBytes": 80647805,
+  "sha256": "84ea8920d8a8cd4762f59f6de99ce2a9e4f6e136b5696fb4c85f58cf96c862cd",
+  "notes": "Local test build containing the current performance, browser prototype, and urgent-alert work. Testing channel only."
+}
