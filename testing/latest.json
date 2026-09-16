@@ -1,11 +1,11 @@
 {
   "channel": "testing",
   "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/testing/downloads/flowstock-test-latest.apk",
-  "publishedAt": "2026-09-16T18:19:05+01:00",
-  "versionCode": 44,
-  "versionName": "2.4.29",
-  "buildLabel": "Review Volo Purchase Packs before import",
-  "sizeBytes": 80651408,
-  "sha256": "e25a6a83a1bf0bf9e3165a883c783f82f5967cf1f485fc771c288fdf6f715bc0",
-  "notes": "Testing-only build with a review-first Volo catalogue scan. It checks only Purchase Pack stock numbers, lists products missing from FlowStock, and requires Apply Changes before the database is updated."
+  "publishedAt": "2026-09-16T18:54:12+01:00",
+  "versionCode": 45,
+  "versionName": "2.4.30",
+  "buildLabel": "Choose Volo products to import",
+  "sizeBytes": 80652324,
+  "sha256": "9dfffaaa956cac3493cbac32e48f661bce96c57e08ec36e4c0b9bdc2835e607b",
+  "notes": "Testing-only build with selective Volo purchase-pack intake. Tap products to include, apply the selection, and unselected products are saved under Not Used so they stay out of future scans. Restore them whenever they are sold again."
 }
