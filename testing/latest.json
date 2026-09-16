@@ -1,11 +1,11 @@
 {
   "channel": "testing",
   "apkUrl": "https://raw.githubusercontent.com/piotrnawrot9771-cpu/flowstock-updates/main/testing/downloads/flowstock-test-latest.apk",
-  "publishedAt": "2026-09-09T22:50:31+01:00",
+  "publishedAt": "2026-09-16T18:19:05+01:00",
   "versionCode": 44,
   "versionName": "2.4.29",
-  "buildLabel": "Fixed PO entry and clear delivery workspace",
-  "sizeBytes": 80650529,
-  "sha256": "83735eb1ddf8da25f03e9a04094c541a303dc932d29aeeb6b19d1431c300b41a",
-  "notes": "Testing-only build with reliable PO number entry, full-screen PO Items and Scanned tabs, compact delivery cards, batch and expiry receipt lines, and no delivery Share PDF action."
+  "buildLabel": "Review Volo Purchase Packs before import",
+  "sizeBytes": 80651408,
+  "sha256": "e25a6a83a1bf0bf9e3165a883c783f82f5967cf1f485fc771c288fdf6f715bc0",
+  "notes": "Testing-only build with a review-first Volo catalogue scan. It checks only Purchase Pack stock numbers, lists products missing from FlowStock, and requires Apply Changes before the database is updated."
 }
